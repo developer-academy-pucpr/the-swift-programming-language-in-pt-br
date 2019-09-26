@@ -1,4 +1,4 @@
-# Documentação "The Swift Programming Language" (PT-BR) 
+# "The Swift Programming Language" (PT-BR) 
 
 Tradução do livro "The Swift Programming Language" para Português (BR).
 [Versão Original em Inglês](https://docs.swift.org/swift-book/) 
