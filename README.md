@@ -16,7 +16,7 @@ Mais informações e inscrição no [site do evento](https://hacktoberfest.digit
 ## 📝 Estágio Atual 
 No momento, nosso foco é **traduzir ao máximo a versão 5.1**. 
 
-Para mais detalhes do andamento, acesse [nosso status](https://github.com/developer-academy-pucpr/the-swift-programming-language-in-pt-br/issues/1) 
+Para mais detalhes do andamento, acesse o [Status Geral do Projeto](https://github.com/developer-academy-pucpr/the-swift-programming-language-in-pt-br/issues/1) 
 
 ## 💻 Como contribuir 
 
