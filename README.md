@@ -14,9 +14,9 @@ Aproveite para fazer pelo menos **4 contribuições em Outubro** e ganhe uma cam
 Mais informações e inscrição no [site do evento](https://hacktoberfest.digitalocean.com). 
 
 ## 📝 Estágio Atual 
-No momento, nosso foco é **traduzir a versão 5.1**. 
+No momento, nosso foco é **traduzir ao máximo a versão 5.1**. 
 
-Para mais detalhes do andamento, acesse [nosso status](STATUS.md) 
+Para mais detalhes do andamento, acesse [nosso status](https://github.com/developer-academy-pucpr/the-swift-programming-language-in-pt-br/issues/1) 
 
 ## 💻 Como contribuir 
 
@@ -38,6 +38,6 @@ Assim como a documentação original em inglês, esse projeto segue a licença [
 
 ## 🛠 Outros Projetos 
 Algumas traduções parciais disponíveis online: 
-- [CocoaHeadsBR (3.0)] (https://github.com/CocoaHeadsBrasil/the-swift-programming-language-in-portuguese-br)
+- [CocoaHeadsBR (3.0)](https://github.com/CocoaHeadsBrasil/the-swift-programming-language-in-portuguese-br)
 - [Luiz Fernando Salvaterra (4.0)](https://nandosalvaterra.gitbooks.io/documentacao-swift-4/Language%20Guide/the_basics.html)
 
