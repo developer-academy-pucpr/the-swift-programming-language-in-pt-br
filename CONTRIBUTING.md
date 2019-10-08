@@ -64,8 +64,7 @@ Caso você esteja precisando de uma ajudinha, dê uma olhada nesses textos:
 
 - [Git e GitHub: por onde começar?](https://medium.com/reprogramabr/git-e-github-por-onde-começar-ca88a783c223)
 - [Entendendo Git: Branches](https://medium.com/@Juliobguedes/entendendo-git-branches-parte-2-3778f4258843)
-- [Como Criar um Pull Request no GitHub](https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt?fbclid=IwAR3vmZqlGP
-xjg6-VbEg1kQTzgAUmUZwUCxnAeS7RvqQ6b_v3zyF4qoTUxVk) 
+- [Como Criar um Pull Request no GitHub](https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt) 
 
 
 
