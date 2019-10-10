@@ -68,6 +68,14 @@ Agora é aguardar a revisão e o merge. Em alguns casos, podemos pedir alguma al
 ```Swift
             var hello = "hello"
 ```
+#### Organização de PRs e Issues
+- Para organizar e facilitar a continuação da tradução em casos de tradução parcial, pedimos que tradução seja feita por subcapítulos. Antes de terminar a tradução parcial e dar o PR, escreva o titulo do próximo subcapítulo no arquivo.
+- Não é necessário traduzir todo um capitulo do livro para fazer o pull request, caso pare em metade  de um capitulo ao fazer o *Pull Request* adicione a label de tradução parcial e coloque no titulo de seu PR qual capitulo e subcapítulo foi traduzido,por exemplo `operadoresBasicos.md / Operadores Aritméticos`
+- Especifique as mudanças, revisaremos o PR e caso haja alguma alteração a ser feita (erro de tradução em um termo por exemplo), solicitaremos a mudança para o usuário, e após a adequação daremos o *merge* e atualizaremos o status geral do projeto.
+- Ao começar a tradução de um capítulo, crie uma *Issue* com o nome do capítulo e a *label* "em progresso"
+- Antes de começar a tradução verifique na *Issue* de status geral do projeto se a tradução desse capitulo já não está em andamento.
+- Pedimos que caso coloque pegue um capítulo para traduzir, ao terminar de revisar os subcapítulos que está traduzindo, dê o Pull Request, para que uma tradução não seja abandonada com o status de em andamento.
+- Para evitar que traduções sejam abandonadas após abertura de uma issue: caso a tradução de um capítulo fique mais de uma semana em andamento e nenhuma atualização de seu status seja comunicada (dando PR ou comentando nas *Issues*), consideraremos que a tradução deste capítulo não está mais em andamento e seu status voltará para "aguardando".
 
 ### 
 
