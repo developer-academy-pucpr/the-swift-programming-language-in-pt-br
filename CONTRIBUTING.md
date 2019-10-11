@@ -9,7 +9,7 @@ Você pode participar de diversas maneiras:
 ## Por onde começar? 
 
 1. [Configure seu repositório](#configure-seu-repositório)
-2. Entenda o [Fluxo de Contribuição](#fluxo)
+2. Entenda o [Fluxo de Contribuição](#fluxo-de-contribuição)
 3. Leia nossas [Recomendações de Estilo](#recomendações-de-estilo)
 4. [Escolha o tópico](https://github.com/developer-academy-pucpr/the-swift-programming-language-in-pt-br/issues/1) que irá traduzir e comente em sua issue. 
 
@@ -56,7 +56,7 @@ Preencha as informações e… UHULLLL! Parabéns!
 
 Agora é aguardar a revisão e o merge. Em alguns casos, podemos pedir alguma alteração. Enquanto isso, você pode escolher outra parte do livro e continuar ajudando! 
 
-#### 5. Após o Merge... 
+#### 5. Após o Pull Request... 
 Atualize seu repositorio com o repositório oficial: 
 ```
 git fetch upstream
