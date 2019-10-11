@@ -6,7 +6,7 @@ Você pode participar de diversas maneiras:
 * Sugerindo alterações no projeto;
 * Respondendo issues com gentileza e ajudando outros participantes com as dúvidas;
 
-## Por onde começar? 
+# Por onde começar? 
 
 1. [Configure seu repositório](#configure-seu-repositório)
 2. Entenda o [Fluxo de Contribuição](#fluxo-de-contribuição)
@@ -66,14 +66,23 @@ git push -f origin master
 
 ## Recomendações de Estilo 
 - **Não traduza termos técnicos e blocos de código**
+
 - Caso tenha qualquer tipo de dúvida, abra uma *Issue* com a label **dúvida**  que faremos o possível para te ajudar.
+
 - Casos de palavras em inglês ou outras linguagens, em que não há sentido em fazer sua tradução, utilize o formato itálico. exemplo: *Closures*
-- Notas de rodapé devem ser criadas como quote do markdown, usando o sinal de > na frente;
-> nota de rodapé
-- Blocos de código:
-    - Utilize um apóstrofe (\` ... código... \`) para indicar um pedaço de código no meio de um texto (`var hello = "hello"`).
-    - Utilize três apóstrofe com o nome da linguagem de programação depois (\`\`\`Swift  {novalinha} ...código... \`\`\`), para indicar um bloco de código:
-```Swift
+
+#### Notas 
+Notas devem ser criadas como quote do markdown, usando o sinal de > na frente (`> nota `) ;
+
+> nota 
+
+#### Blocos de código:
+- Utilize um apóstrofe (\` ... código... \`) para indicar um pedaço de código no meio de um texto (`var hello = "hello"`).
+
+- Utilize três apóstrofe com o nome da linguagem de programação depois (\`\`\`Swift  {novalinha} ...código... \`\`\`), para indicar um bloco de código:
+
+
+```swift
             var hello = "hello"
 ```
 #### Organização de PRs e Issues
@@ -84,7 +93,6 @@ git push -f origin master
 - Antes de começar a tradução verifique na *Issue* de status geral do projeto se a tradução desse capítulo/subcapítulo já não está em andamento.
 - Para evitar que traduções sejam abandonadas após abertura de uma issue: caso a tradução de um capítulo fique mais de uma semana em andamento e nenhuma atualização de seu status seja comunicada (dando PR ou comentando nas *Issues*), consideraremos que a tradução deste capítulo/subcapítulo não está mais em andamento e seu status voltará para "aguardando".
 
-### 
 
 ## Leituras de Apoio  
 Caso você esteja precisando de uma ajudinha, dê uma olhada nesses textos: 
@@ -93,5 +101,3 @@ Caso você esteja precisando de uma ajudinha, dê uma olhada nesses textos:
 - [Entendendo Git: Branches](https://medium.com/@Juliobguedes/entendendo-git-branches-parte-2-3778f4258843)
 - [Como Criar um Pull Request no GitHub](https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt) 
 - [CheatSheet para Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
-
-
