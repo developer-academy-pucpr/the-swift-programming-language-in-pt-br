@@ -66,18 +66,31 @@ git push -f origin master
 
 ## Recomendações de Estilo 
 - **Não traduza termos técnicos e blocos de código**
+
 - Caso tenha qualquer tipo de dúvida, abra uma *Issue* com a label **dúvida**  que faremos o possível para te ajudar.
+
 - Casos de palavras em inglês ou outras linguagens, em que não há sentido em fazer sua tradução, utilize o formato itálico. exemplo: *Closures*
-- Notas de rodapé devem ser criadas como quote do markdown, usando o sinal de > na frente;
-> nota de rodapé
-- Blocos de código:
-    - Utilize um apóstrofe (\` ... código... \`) para indicar um pedaço de código no meio de um texto (`var hello = "hello"`).
-    - Utilize três apóstrofe com o nome da linguagem de programação depois (\`\`\`Swift  {novalinha} ...código... \`\`\`), para indicar um bloco de código:
-```Swift
+
+#### Notas 
+Notas devem ser criadas como quote do markdown, usando o sinal de > na frente;
+``` 
+> nota 
+> observações e comentários;
+``` 
+> nota 
+
+> observações e comentários;
+
+#### Blocos de código:
+- Utilize um apóstrofe (\` ... código... \`) para indicar um pedaço de código no meio de um texto (`var hello = "hello"`).
+
+- Utilize três apóstrofe com o nome da linguagem de programação depois (\`\`\`Swift  {novalinha} ...código... \`\`\`), para indicar um bloco de código:
+
+
+```swift
             var hello = "hello"
 ```
 
-### 
 
 ## Leituras de Apoio  
 Caso você esteja precisando de uma ajudinha, dê uma olhada nesses textos: 
