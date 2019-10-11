@@ -72,14 +72,9 @@ git push -f origin master
 - Casos de palavras em inglês ou outras linguagens, em que não há sentido em fazer sua tradução, utilize o formato itálico. exemplo: *Closures*
 
 #### Notas 
-Notas devem ser criadas como quote do markdown, usando o sinal de > na frente;
-``` 
-> nota 
-> observações e comentários;
-``` 
-> nota 
+Notas devem ser criadas como quote do markdown, usando o sinal de > na frente (`> nota `) ;
 
-> observações e comentários;
+> nota 
 
 #### Blocos de código:
 - Utilize um apóstrofe (\` ... código... \`) para indicar um pedaço de código no meio de um texto (`var hello = "hello"`).
