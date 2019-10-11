@@ -6,7 +6,7 @@ Você pode participar de diversas maneiras:
 * Sugerindo alterações no projeto;
 * Respondendo issues com gentileza e ajudando outros participantes com as dúvidas;
 
-## Por onde começar? 
+# Por onde começar? 
 
 1. [Configure seu repositório](#configure-seu-repositório)
 2. Entenda o [Fluxo de Contribuição](#fluxo)
@@ -87,4 +87,25 @@ Caso você esteja precisando de uma ajudinha, dê uma olhada nesses textos:
 - [Como Criar um Pull Request no GitHub](https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt) 
 - [CheatSheet para Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
 
+## Git CheatSheet 
 
+```
+- listar branches 
+git branch 
+
+- nova branch 
+git checkout -b nome
+
+- commit
+Git add . 
+Git commit -m “mensagem clara”
+Git push origin nomebranch
+
+- atualizar o repositorio 
+Git checkout master 
+Git fetch upstream 
+Git merge upstream/master 
+
+- atualizar a master: 
+	git push origin master 
+``` 
